@@ -1,0 +1,2 @@
+,model_name,Obs,Next Obs,state,action,next_s,repeted_action,Error,maxQ,episode_reward,counter,Done reason
+0,1,{'n_estimators': 0.4979919678714859},{'n_estimators': 0.4879919678714859},"OrderedDict([('n_estimators', 250), ('bootstrap', False), ('criterion', 'gini'), ('random_state', 42)])","['n_estimators', -0.01]","OrderedDict([('n_estimators', 245)])",False,0.1924242424242424,-0.007231712341308594,0.00012913223140495844,1,counter? False /done_all_action_inf? False/ maxQ<0 ? True

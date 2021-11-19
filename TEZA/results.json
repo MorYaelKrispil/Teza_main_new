@@ -1,0 +1,624 @@
+[
+    {
+        "run": 1,
+        "epoch": 1,
+        "reward": -0.04686868686868689,
+        "epoch duration": 77.87314486503601,
+        "run duration": 82.63079571723938,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 2,
+        "reward": -0.0051790633608814985,
+        "epoch duration": 180.71420812606812,
+        "run duration": 267.21809482574463,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 3,
+        "reward": -0.00012855831037649048,
+        "epoch duration": 568.7813169956207,
+        "run duration": 840.4612767696381,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 4,
+        "reward": 0.0009182736455463442,
+        "epoch duration": 228.309494972229,
+        "run duration": 1072.9408466815948,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 5,
+        "reward": -0.023360881542699725,
+        "epoch duration": 276.20313000679016,
+        "run duration": 1353.0975148677826,
+        "loss": 0.046045489609241486,
+        "loss_multply_by_batch_size": 14.504329226911068,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 6,
+        "reward": -0.00012855831037649114,
+        "epoch duration": 301.928701877594,
+        "run duration": 1659.8227498531342,
+        "loss": 0.3351245581926334,
+        "loss_multply_by_batch_size": 105.56423583067954,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 7,
+        "reward": -0.03419651056014695,
+        "epoch duration": 79.8460648059845,
+        "run duration": 1743.7901556491852,
+        "loss": 0.021597130410742783,
+        "loss_multply_by_batch_size": 6.803096079383977,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 8,
+        "reward": -0.025123966942148725,
+        "epoch duration": 114.22047901153564,
+        "run duration": 1862.7233698368073,
+        "loss": 0.02959007327814424,
+        "loss_multply_by_batch_size": 9.320873082615435,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 9,
+        "reward": -0.00012855831037648707,
+        "epoch duration": 280.05369806289673,
+        "run duration": 2147.344540834427,
+        "loss": 0.055569920958655455,
+        "loss_multply_by_batch_size": 17.50452510197647,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 10,
+        "reward": 0.003296602387511454,
+        "epoch duration": 199.03791999816895,
+        "run duration": 2351.1238448619843,
+        "loss": 0.006285194063647872,
+        "loss_multply_by_batch_size": 1.9798361300490797,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 11,
+        "reward": 0.00012855831037649322,
+        "epoch duration": 337.45857095718384,
+        "run duration": 2693.8429329395294,
+        "loss": 0.011003213462933514,
+        "loss_multply_by_batch_size": 3.466012240824057,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 12,
+        "reward": 4.5913682277319906e-05,
+        "epoch duration": 460.5291037559509,
+        "run duration": 3158.3610486984253,
+        "loss": 0.05760369819611134,
+        "loss_multply_by_batch_size": 18.14516493177507,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 13,
+        "reward": -3.3576386029160465e-18,
+        "epoch duration": 576.19571185112,
+        "run duration": 3739.230442047119,
+        "loss": 0.005444336607257673,
+        "loss_multply_by_batch_size": 1.714966031286167,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 14,
+        "reward": -0.0483011937557392,
+        "epoch duration": 93.10493397712708,
+        "run duration": 3836.8088047504425,
+        "loss": 0.030875876283509626,
+        "loss_multply_by_batch_size": 9.725901029305533,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 15,
+        "reward": -0.03977043158861338,
+        "epoch duration": 134.60984206199646,
+        "run duration": 3975.9120829105377,
+        "loss": 0.005088725985611774,
+        "loss_multply_by_batch_size": 1.6029486854677089,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 16,
+        "reward": -0.0240495867768595,
+        "epoch duration": 109.48763513565063,
+        "run duration": 4092.11093378067,
+        "loss": 0.0006360273825795581,
+        "loss_multply_by_batch_size": 0.20034862551256083,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 17,
+        "reward": -0.027245179063360898,
+        "epoch duration": 94.71393990516663,
+        "run duration": 4191.232763767242,
+        "loss": 4.397138299181178e-05,
+        "loss_multply_by_batch_size": 0.01385098564242071,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 18,
+        "reward": 0.00026629935720844816,
+        "epoch duration": 575.2125201225281,
+        "run duration": 4770.5583329200745,
+        "loss": 3.827282423102703e-05,
+        "loss_multply_by_batch_size": 0.012055939632773516,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 19,
+        "reward": -0.03936639118457302,
+        "epoch duration": 114.58688521385193,
+        "run duration": 4889.405201911926,
+        "loss": 0.0008530733030056581,
+        "loss_multply_by_batch_size": 0.2687180904467823,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 20,
+        "reward": -0.00021120293847566712,
+        "epoch duration": 602.7758071422577,
+        "run duration": 5496.546189785004,
+        "loss": 0.0017498584706955294,
+        "loss_multply_by_batch_size": 0.5512054182690918,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 21,
+        "reward": -0.038907254361799835,
+        "epoch duration": 69.01944303512573,
+        "run duration": 5570.805548667908,
+        "loss": 0.02034686459782755,
+        "loss_multply_by_batch_size": 6.4092623483156785,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 22,
+        "reward": -0.012690541781450874,
+        "epoch duration": 89.0374641418457,
+        "run duration": 5664.087803840637,
+        "loss": 0.00017832924791109112,
+        "loss_multply_by_batch_size": 0.056173713091993704,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 23,
+        "reward": -3.673094582185271e-05,
+        "epoch duration": 210.757080078125,
+        "run duration": 5879.303572893143,
+        "loss": 0.0024711707160421943,
+        "loss_multply_by_batch_size": 0.7784187755532912,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 24,
+        "reward": -0.042635445362718086,
+        "epoch duration": 81.22972130775452,
+        "run duration": 5964.269216775894,
+        "loss": 0.00039996439257568756,
+        "loss_multply_by_batch_size": 0.12598878366134159,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 25,
+        "reward": -0.027493112947658424,
+        "epoch duration": 58.50717377662659,
+        "run duration": 6026.566872835159,
+        "loss": 0.0008405372419575644,
+        "loss_multply_by_batch_size": 0.26476923121663276,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 26,
+        "reward": 0.0001561065197428854,
+        "epoch duration": 394.1868381500244,
+        "run duration": 6424.484538793564,
+        "loss": 0.003130024971618522,
+        "loss_multply_by_batch_size": 0.9859578660598345,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 27,
+        "reward": 0.0005142332415059693,
+        "epoch duration": 294.1733787059784,
+        "run duration": 6722.314379692078,
+        "loss": 0.0003913935830092265,
+        "loss_multply_by_batch_size": 0.12328897864790633,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 28,
+        "reward": -0.04292011019283746,
+        "epoch duration": 171.55356192588806,
+        "run duration": 6897.605760812759,
+        "loss": 0.012555055177977515,
+        "loss_multply_by_batch_size": 3.9548423810629174,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 29,
+        "reward": -0.04326905417814502,
+        "epoch duration": 90.51017332077026,
+        "run duration": 6991.843827962875,
+        "loss": 0.0007386416779939152,
+        "loss_multply_by_batch_size": 0.23267212856808328,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 30,
+        "reward": -0.047621671258034924,
+        "epoch duration": 65.91057419776917,
+        "run duration": 7062.362175941467,
+        "loss": 0.0016197152584186008,
+        "loss_multply_by_batch_size": 0.5102103064018593,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 31,
+        "reward": 0.00016528925619834612,
+        "epoch duration": 318.9511592388153,
+        "run duration": 7384.837981939316,
+        "loss": 0.0016421047498985741,
+        "loss_multply_by_batch_size": 0.5172629962180508,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 32,
+        "reward": -0.0031680440771349673,
+        "epoch duration": 215.34276008605957,
+        "run duration": 7604.067702770233,
+        "loss": 0.0011945558012124069,
+        "loss_multply_by_batch_size": 0.3762850773819082,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 33,
+        "reward": -0.04524334251606977,
+        "epoch duration": 82.99985694885254,
+        "run duration": 7691.217325687408,
+        "loss": 2.009719468881644e-05,
+        "loss_multply_by_batch_size": 0.006330616326977179,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 34,
+        "reward": -0.028696051423324143,
+        "epoch duration": 68.66641116142273,
+        "run duration": 7763.505309820175,
+        "loss": 1.9420250795057712e-05,
+        "loss_multply_by_batch_size": 0.006117379000443179,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 35,
+        "reward": -0.03771349862258954,
+        "epoch duration": 90.27145099639893,
+        "run duration": 7857.526005029678,
+        "loss": 1.98920675713799e-05,
+        "loss_multply_by_batch_size": 0.006266001284984668,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 36,
+        "reward": -0.0370156106519743,
+        "epoch duration": 69.62653708457947,
+        "run duration": 7931.259143829346,
+        "loss": 1.8833433307644022e-05,
+        "loss_multply_by_batch_size": 0.0059325314919078664,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 37,
+        "reward": 0.0002571166207529904,
+        "epoch duration": 163.700936794281,
+        "run duration": 8099.77477478981,
+        "loss": 2.194132539154943e-05,
+        "loss_multply_by_batch_size": 0.006911517498338071,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 38,
+        "reward": 0.00016528925619834322,
+        "epoch duration": 408.65200781822205,
+        "run duration": 8514.262386798859,
+        "loss": 7.65572476233328e-05,
+        "loss_multply_by_batch_size": 0.02411553300134983,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 39,
+        "reward": -0.03343434343434337,
+        "epoch duration": 88.27607989311218,
+        "run duration": 8606.113229751587,
+        "loss": 7.499711388109496e-05,
+        "loss_multply_by_batch_size": 0.02362409087254491,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 40,
+        "reward": -0.045996326905417835,
+        "epoch duration": 79.97963905334473,
+        "run duration": 8690.877201795578,
+        "loss": 0.00010515189104707033,
+        "loss_multply_by_batch_size": 0.03312284567982715,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 41,
+        "reward": -0.02085399449035816,
+        "epoch duration": 73.7190990447998,
+        "run duration": 8768.70535993576,
+        "loss": 6.891614297245045e-05,
+        "loss_multply_by_batch_size": 0.021708585036321892,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 42,
+        "reward": -0.01803489439853075,
+        "epoch duration": 134.2364318370819,
+        "run duration": 8908.609743833542,
+        "loss": 6.203200920271994e-05,
+        "loss_multply_by_batch_size": 0.01954008289885678,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 43,
+        "reward": -0.04276400367309458,
+        "epoch duration": 269.9445171356201,
+        "run duration": 9183.124616861343,
+        "loss": 6.781783637658616e-05,
+        "loss_multply_by_batch_size": 0.021362618458624638,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 44,
+        "reward": -0.017832874196510567,
+        "epoch duration": 74.9882607460022,
+        "run duration": 9262.450949907303,
+        "loss": 0.00032931264863619283,
+        "loss_multply_by_batch_size": 0.10373348432040075,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 45,
+        "reward": -0.02333333333333332,
+        "epoch duration": 237.40463209152222,
+        "run duration": 9503.894901037216,
+        "loss": 5.163516821734707e-05,
+        "loss_multply_by_batch_size": 0.016265077988464327,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 46,
+        "reward": 3.673094582185403e-05,
+        "epoch duration": 569.1283760070801,
+        "run duration": 10077.173030853271,
+        "loss": 6.080952412698285e-05,
+        "loss_multply_by_batch_size": 0.019155000099999597,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 47,
+        "reward": -0.03129476584022039,
+        "epoch duration": 280.44783902168274,
+        "run duration": 10362.150275707245,
+        "loss": 4.584497684037261e-05,
+        "loss_multply_by_batch_size": 0.014441167704717373,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 48,
+        "reward": 7.346189164370794e-05,
+        "epoch duration": 296.32602095603943,
+        "run duration": 10662.641030788422,
+        "loss": 9.643899785794294e-05,
+        "loss_multply_by_batch_size": 0.030378284325252025,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 49,
+        "reward": 0.00033057851239669565,
+        "epoch duration": 377.67415380477905,
+        "run duration": 11047.913421869278,
+        "loss": 1.852330831839243e-05,
+        "loss_multply_by_batch_size": 0.005834842120293615,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 50,
+        "reward": -0.026822773186409566,
+        "epoch duration": 81.55221605300903,
+        "run duration": 11134.456896066666,
+        "loss": 2.194902840745358e-05,
+        "loss_multply_by_batch_size": 0.006913943948347878,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 51,
+        "reward": -0.021083562901744728,
+        "epoch duration": 174.5446219444275,
+        "run duration": 11313.662364959717,
+        "loss": 5.21228319427344e-05,
+        "loss_multply_by_batch_size": 0.016418692061961337,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 52,
+        "reward": -0.021000918273645523,
+        "epoch duration": 117.48825812339783,
+        "run duration": 11435.645684957504,
+        "loss": 2.542459324537222e-05,
+        "loss_multply_by_batch_size": 0.00800874687229225,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 53,
+        "reward": -0.020284664830119377,
+        "epoch duration": 78.62914323806763,
+        "run duration": 11521.096707820892,
+        "loss": 2.8327062705463345e-05,
+        "loss_multply_by_batch_size": 0.008923024752220954,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 54,
+        "reward": -0.025656565656565666,
+        "epoch duration": 93.09531092643738,
+        "run duration": 11618.206264734268,
+        "loss": 3.5810423469229136e-05,
+        "loss_multply_by_batch_size": 0.011280283392807178,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 55,
+        "reward": -0.0001377410468319557,
+        "epoch duration": 364.51372385025024,
+        "run duration": 11986.873590707779,
+        "loss": 4.311531954463423e-05,
+        "loss_multply_by_batch_size": 0.013581325656559784,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 56,
+        "reward": -0.04479338842975208,
+        "epoch duration": 105.4250590801239,
+        "run duration": 12097.391093730927,
+        "loss": 3.071844069396205e-05,
+        "loss_multply_by_batch_size": 0.009676308818598045,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 57,
+        "reward": -0.03650137741046832,
+        "epoch duration": 65.9393858909607,
+        "run duration": 12167.879707813263,
+        "loss": 3.6677324541891545e-05,
+        "loss_multply_by_batch_size": 0.011553357230695838,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 58,
+        "reward": -0.03934802571166206,
+        "epoch duration": 90.57278394699097,
+        "run duration": 12263.588606834412,
+        "loss": 2.3513851461064493e-05,
+        "loss_multply_by_batch_size": 0.007406863210235315,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 59,
+        "reward": -0.05596877869605146,
+        "epoch duration": 126.68034219741821,
+        "run duration": 12395.207978963852,
+        "loss": 3.785998980299429e-05,
+        "loss_multply_by_batch_size": 0.011925896787943202,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 60,
+        "reward": 3.6730945821855415e-05,
+        "epoch duration": 278.2234399318695,
+        "run duration": 12678.385719776154,
+        "loss": 3.3337130526700684e-05,
+        "loss_multply_by_batch_size": 0.010501196115910716,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 61,
+        "reward": -0.0355188246097337,
+        "epoch duration": 108.13168287277222,
+        "run duration": 12791.81961774826,
+        "loss": 3.7070492099802424e-05,
+        "loss_multply_by_batch_size": 0.011677205011437763,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 62,
+        "reward": -0.020890725436179963,
+        "epoch duration": 119.47244501113892,
+        "run duration": 12917.151043891907,
+        "loss": 2.7765386827619903e-05,
+        "loss_multply_by_batch_size": 0.008746096850700269,
+        "batch_size": 315
+    },
+    {
+        "run": 1,
+        "epoch": 63,
+        "reward": -0.01776859504132231,
+        "epoch duration": 152.06073808670044,
+        "run duration": 13074.966805696487,
+        "loss": 2.8918663882370945e-05,
+        "loss_multply_by_batch_size": 0.009109379122946848,
+        "batch_size": 315
+    }
+]

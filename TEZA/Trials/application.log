@@ -1,0 +1,21 @@
+2021-10-20 00:07:18,705 - benchmark - INFO - Main start
+2021-10-20 00:07:18,715 - benchmark - INFO - #######
+Starting task 9910
+#######
+2021-10-20 00:07:18,719 - benchmark - INFO - ##
+Iteration 0 at 00:07:18.719584
+##
+2021-10-20 00:07:18,725 - benchmark - ERROR - [Errno 2] No such file or directory: 'assets/classifier.json'
+Traceback (most recent call last):
+  File "<ipython-input-40-769e1af5bfa0>", line 206, in <module>
+    bm = benchmark.OpenMLBenchmark(task, test_size=None)
+  File "/content/drive/MyDrive/MorTeza-main/TEZA/Trials/automl_benchmark/benchmark/open_ml.py", line 119, in __init__
+    super().__init__()
+  File "/usr/local/lib/python3.7/dist-packages/hpolib/abstract_benchmark.py", line 22, in __init__
+    self.configuration_space = self.get_configuration_space()
+  File "/content/drive/MyDrive/MorTeza-main/TEZA/Trials/automl_benchmark/benchmark/open_ml.py", line 173, in get_configuration_space
+    return converter.convert(MetaConfigCollection.from_json('assets/classifier.json'))
+  File "/content/drive/MyDrive/MorTeza-main/TEZA/Trials/automl_benchmark/config/base.py", line 33, in from_json
+    with open(file) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'assets/classifier.json'
+2021-10-20 00:07:18,727 - benchmark - INFO - Main finished
